@@ -1,0 +1,21 @@
+# 生データ・企業名対応表（CLAUDE.md §6: コミットしない）
+data/
+JPA_*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 環境・IDE
+.env
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
